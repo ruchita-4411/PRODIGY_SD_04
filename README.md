@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-A full-stack Sudoku solver application with a beautiful and responsive user interface. The application uses a backtracking algorithm to solve Sudoku puzzles efficiently.
+Sudoku solver application with a beautiful and responsive user interface. The application uses a backtracking algorithm to solve Sudoku puzzles efficiently.
 
 ## Features
 
